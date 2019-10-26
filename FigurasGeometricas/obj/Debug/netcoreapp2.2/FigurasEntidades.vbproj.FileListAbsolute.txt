@@ -1,0 +1,4 @@
+C:\Users\Mili\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\netcoreapp2.2\FigurasEntidades.vbprojAssemblyReference.cache
+C:\Users\Mili\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\netcoreapp2.2\FigurasEntidades.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\netcoreapp2.2\FigurasEntidades.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\netcoreapp2.2\FigurasEntidades.AssemblyInfo.vb
